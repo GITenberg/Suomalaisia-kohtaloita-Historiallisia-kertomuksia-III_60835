@@ -1,0 +1,35 @@
+_repo: Suomalaisia-kohtaloita-Historiallisia-kertomuksia-III_60835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkuna, Kyösti
+    alias: Wilkuna, Kyosti
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '4879'
+    url: http://www.gutenberg.org/2009/agents/4879
+    wikipedia: http://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+description: ''
+gutenberg_issued: '2019-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60835'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Historical fiction'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcsh 'Short stories, Finnish'
+- GITenberg
+tableOfContents: Itseään etsivä vanhus -- Jöns Maununpojan urotyö -- Päivätyön päättyessä
+  -- Vallanpitäjä -- Sukuhaaransa viimeinen -- Hakkapeliitat -- Kaupunkitulijainen
+  -- Karoliinin korvapuusti -- Neljäntoista sadan retki -- Viimeiseen mieheen -- Häviön
+  jälkeen -- Revontulten alla -- Poloinen papintytär -- Kukin kohdaltansa -- Kotiin!
+  -- Viimeinen koetus.
+title: 'Suomalaisia kohtaloita
+
+  Historiallisia kertomuksia III'
+url: http://www.gutenberg.org/ebooks/60835
